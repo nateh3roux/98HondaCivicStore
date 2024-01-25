@@ -1,0 +1,20 @@
+{
+  "name": "98hondacivicstore",
+  "version": "1.0.0",
+  "description": "A store for selling a 1998 Honda Civic",
+  "main": "understanding-state.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisminnick/98HondaCivicStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisminnick/98HondaCivicStore/issues"
+  },
+  "homepage": "https://github.com/chrisminnick/98HondaCivicStore#readme"
+}
