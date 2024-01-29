@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/chrisminnick/98HondaCivicStore/issues"
   },
-  "homepage": "https://github.com/chrisminnick/98HondaCivicStore#readme"
+  "homepage": "https://github.com/chrisminnick/98HondaCivicStore#readme",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.3.0",
+    "@testing-library/react": "^14.1.2",
+    "@vitest/coverage-v8": "^1.2.2",
+    "jsdom": "^24.0.0",
+    "vitest": "^1.2.2"
+  }
 }
